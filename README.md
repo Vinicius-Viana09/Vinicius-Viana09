@@ -13,6 +13,8 @@
   
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/vini_viana09/)
   
+[<img src= "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">](https://discord.com/channels/#0222)
+  
 <a href="https://discord.gg/Viyana~~ #0222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Viyana~~ #0222" height="30" width="40" /></a>
 </p>
 
